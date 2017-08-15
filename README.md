@@ -3,7 +3,8 @@
 ***A personal inventory for insurance, theft or relocation purposes.***
 
 Please visit our application @ https://safe-stream-99507.herokuapp.com/
-To interact with an example inventory, sign in using email: stu@mail.com, pw: 12345
+
+To interact with an example inventory, sign in using email: " stu@mail.com ", pw: 12345
 
 ## CONTENTS ##
 [:movie_camera: Video demonstration](#video)
