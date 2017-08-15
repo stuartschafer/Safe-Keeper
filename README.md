@@ -7,8 +7,11 @@ To interact with an example inventory, sign in using email: stu@mail.com, pw: 12
 
 ## CONTENTS ##
 [:movie_camera: Video demonstration](#video)
+
 [:bust_in_silhouette: Sign in or Sign up](#signup)
+
 [:clipboard: Inventory](#inventory)
+
 [:pencil: Add, Update or Delete](#CUD)
 
 <a name="video"></a>
@@ -18,9 +21,9 @@ To interact with an example inventory, sign in using email: stu@mail.com, pw: 12
 
 <a name="signup"></a>
 
-![](public/assets/images/sign.png)
 ## USERS ##:bust_in_silhouette:
 ### SIGN UP ###
+![](public/assets/images/sign.png)
 
 ***It's easy to sign up for SafeKeeper and start adding items to your own personal inventory database.***
 
@@ -30,25 +33,28 @@ To interact with an example inventory, sign in using email: stu@mail.com, pw: 12
 
 <a name="inventory"></a>
 
-![](public/assets/images/inventory.png)
 ## INVENTORY ##:clipboard:
+![](public/assets/images/inventory.png)
 
 ***Your inventory contains all necessary information for insurance or relocation purposes.  You can sort your inventory table by item, location, category, value or date purchased.  You can also search your inventory to find specific items.  Your items will be securely saved in a database so your data will always be available unless you delete it.***
 
 <a name="CUD"></a>
 
+## ADD, UPDATE OR DELETE ##:pencil:
 ![](public/assets/images/edit.png)
-## ADD, UPDATE OR DELETE ##:pencil: 
+
 ### ADD ###
 
 ***You can easily add items to your inventory.  You just need an item name, a location and a category.  You can also add the current value, the date purchased, the purchase price, the serial number, notes and an image if you wish.***
 
 ### UPDATE ###
 ![](public/assets/images/update.png)
+
 ***Any item can also easily be updated at any time.  You can add more information at a later date if the location of an item changes or the value goes up.***
 
 ### DELETE ###
 ![](public/assets/images/delete.png)
+
 ***You can easily delete any item if it gets broken, lost or donated.***
 
 ---
