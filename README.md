@@ -4,20 +4,16 @@
 
 Please visit our application @ https://safe-stream-99507.herokuapp.com/
 
-To interact with an example inventory, sign in using email: " stu@mail.com ", pw: 12345
+To interact with an example inventory, sign in using email: **stu<span>@mai</span>l.com**, pw: **12345**.
 
 <a name="contents"></a>
 
 ## CONTENTS ##
-[:movie_camera: Video demonstration](#video)
-
-[:bust_in_silhouette: Sign in or Sign up](#signup)
-
-[:clipboard: Inventory](#inventory)
-
-[:pencil: Add, Update or Delete](#CUD)
-
-[:man::woman::woman: Contributors](#contributors)
+- [:movie_camera: Video demonstration](#video)
+- [:bust_in_silhouette: Sign in or Sign up](#signup)
+- [:clipboard: Inventory](#inventory)
+- [:pencil: Add, Update or Delete](#CUD)
+- [:man::woman::woman: Contributors](#contributors)
 
 <a name="video"></a>
 
