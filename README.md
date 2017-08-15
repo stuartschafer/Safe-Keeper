@@ -21,6 +21,8 @@ To interact with an example inventory, sign in using email: " stu@mail.com ", pw
 
 ## Video Demonstration ##
 ![](public/assets/images/video.gif)
+<a name="contents"></a>
+[:file_folder: Back to Contents](#contents)
 
 <a name="signup"></a>
 
@@ -33,6 +35,8 @@ To interact with an example inventory, sign in using email: " stu@mail.com ", pw
 ### SIGN IN ###
 
 ***You can sign in to see your existing inventory anytime.  Just use your e-mail and remember your password!***
+<a name="contents"></a>
+[:file_folder: Back to Contents](#contents)
 
 <a name="inventory"></a>
 
@@ -40,6 +44,8 @@ To interact with an example inventory, sign in using email: " stu@mail.com ", pw
 ![](public/assets/images/inventory.png)
 
 ***Your inventory contains all necessary information for insurance or relocation purposes.  You can sort your inventory table by item, location, category, value or date purchased.  You can also search your inventory to find specific items.  Your items will be securely saved in a database so your data will always be available unless you delete it.***
+<a name="contents"></a>
+[:file_folder: Back to Contents](#contents)
 
 <a name="CUD"></a>
 
@@ -59,6 +65,8 @@ To interact with an example inventory, sign in using email: " stu@mail.com ", pw
 ![](public/assets/images/delete.png)
 
 ***You can easily delete any item if it gets broken, lost or donated.***
+<a name="contents"></a>
+[:file_folder: Back to Contents](#contents)
 
 ---
 <a name="contributors"></a>
@@ -68,3 +76,5 @@ To interact with an example inventory, sign in using email: " stu@mail.com ", pw
 - [@indiaaeevans](https://github.com/indiaaeevans) :v:
 - [@mamorvan](https://www.github.com/mamorvan) :koala:
 
+<a name="contents"></a>
+[:file_folder: Back to Contents](#contents)
