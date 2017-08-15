@@ -15,6 +15,8 @@ To interact with an example inventory, sign in using email: " stu@mail.com ", pw
 
 [:pencil: Add, Update or Delete](#CUD)
 
+[:man::woman::woman: Contributors](#contributors)
+
 <a name="video"></a>
 
 ## Video Demonstration ##
@@ -22,7 +24,7 @@ To interact with an example inventory, sign in using email: " stu@mail.com ", pw
 
 <a name="signup"></a>
 
-## USERS ##:bust_in_silhouette:
+## USERS :bust_in_silhouette:
 ### SIGN UP ###
 ![](public/assets/images/sign.png)
 
@@ -34,14 +36,14 @@ To interact with an example inventory, sign in using email: " stu@mail.com ", pw
 
 <a name="inventory"></a>
 
-## INVENTORY ##:clipboard:
+## INVENTORY :clipboard:
 ![](public/assets/images/inventory.png)
 
 ***Your inventory contains all necessary information for insurance or relocation purposes.  You can sort your inventory table by item, location, category, value or date purchased.  You can also search your inventory to find specific items.  Your items will be securely saved in a database so your data will always be available unless you delete it.***
 
 <a name="CUD"></a>
 
-## ADD, UPDATE OR DELETE ##:pencil:
+## ADD, UPDATE OR DELETE :pencil:
 ![](public/assets/images/edit.png)
 
 ### ADD ###
@@ -59,6 +61,7 @@ To interact with an example inventory, sign in using email: " stu@mail.com ", pw
 ***You can easily delete any item if it gets broken, lost or donated.***
 
 ---
+<a name="contributors"></a>
 ## Contributors
 
 - [@stuartschafer](https://github.com/stuartschafer) :fireworks:
