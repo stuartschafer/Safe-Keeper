@@ -12,7 +12,7 @@ To interact with an example inventory, sign in using email: **stu<span>@mai</spa
 - [:movie_camera: Video demonstration](#video)
 - [:bust_in_silhouette: Sign in or Sign up](#signup)
 - [:clipboard: Inventory](#inventory)
-- [:pencil: Add, Update or Delete](#CUD)
+- [:pencil: Add, Update or Delete items in your inventory](#CUD)
 - [:man::woman::woman: Contributors](#contributors)
 
 <a name="video"></a>
